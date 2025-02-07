@@ -2,7 +2,7 @@
 This Body Mass Index (BMI) Calculator was built using React.js and Material-UI. The app allows users to input their height (cm) and weight (kg), calculate their BMI, view their BMI history, and visualize their results using a gauge chart.
 
 ## Live Demo 🚀
-[Click here to view the deployed project](https://your-project-name.vercel.app/)
+[Click here to view the deployed project](https://bmicalculator-gamma-seven.vercel.app/)
 
 
 <h1>Features</h1>
